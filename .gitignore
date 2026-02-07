@@ -1,3 +1,6 @@
 __pycache__/
 .venv/
 credentials.json
+data/pdfs
+data/raw
+data/bachelors.json
